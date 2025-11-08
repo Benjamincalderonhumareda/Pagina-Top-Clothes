@@ -111,7 +111,7 @@ function ContactForm() {
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2356.7481918467324!2d-76.95762296509433!3d-12.070223700588075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c6f0bb29dacb%3A0xcc82b709d4c77f37!2sN%C2%B0%201068%2C%20LM-119%20N%C2%B0%201068%2C%20La%20Molina%2015012!5e0!3m2!1ses!2spe!4v1762560286113!5m2!1ses!2spe"           
                   style={{ border: 0 }}
                   allowFullScreen=""
-                  width="600"
+                  width="700"
                   height="300"
                   loading="lazy"
                   className="rounded-lg"
@@ -200,3 +200,4 @@ function ContactForm() {
 }
 
 ReactDOM.render(<ContactForm />, document.getElementById("contact-content"));
+
